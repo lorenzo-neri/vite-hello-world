@@ -11,6 +11,7 @@ export default {
 
 <template>
     <div>{{ msg }}</div>
+    <img :src="img" />
 </template>
 
 <style scoped></style>
